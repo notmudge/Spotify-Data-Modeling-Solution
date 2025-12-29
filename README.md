@@ -21,7 +21,7 @@ To solve the data modeling challenges, I performed the following steps:
 ## 📊 The Data Model (Star Schema)
 Here is the final Snowflake/Star schema architecture designed for this solution:
 
-![Final Star Schema Diagram](images/schema_final.png)
+![Final Star Schema Diagram](https://raw.githubusercontent.com/notmudge/Spotify-Data-Modeling-Solution/main/images/schema_final.png)
 
 ## 🚀 How to Use This File
 1.  **Download** the `.pbix` file from this repository.
