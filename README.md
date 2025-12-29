@@ -7,7 +7,6 @@ The original dataset contained unstructured tables with mixed dates and redundan
 
 ## 📂 Data Source & Credit
 * **Original Data & Challenge:** [NitinNSB/Spotify-Data-Warehouse](https://github.com/NitinNSB/Spotify-Data-Warehouse)
-* **Solution Author:** [Your Name/GitHub Handle]
 
 ## 🛠️ What I Did
 To solve the data modeling challenges, I performed the following steps:
