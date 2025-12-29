@@ -7,6 +7,7 @@ The original dataset contained unstructured tables with mixed dates and redundan
 
 ## 📂 Data Source & Credit
 * **Original Data & Challenge:** [NitinNSB/Spotify-Data-Warehouse](https://github.com/NitinNSB/Spotify-Data-Warehouse)
+* **Solution Author:** [notmudge](https://github.com/notmudge)
 
 ## 🛠️ What I Did
 To solve the data modeling challenges, I performed the following steps:
@@ -18,8 +19,9 @@ To solve the data modeling challenges, I performed the following steps:
 * **I finalized the model** by validating all relationships as **One-to-Many (1:*)** and hiding the raw staging tables to ensure the report view is clean for end-users.
 
 ## 📊 The Data Model (Star Schema)
-*(Replace the link below with your actual screenshot filename)*
-![Star Schema Diagram](images/your-schema-screenshot.png)
+Here is the final Snowflake/Star schema architecture designed for this solution:
+
+![Final Star Schema Diagram](images/schema_final.png)
 
 ## 🚀 How to Use This File
 1.  **Download** the `.pbix` file from this repository.
