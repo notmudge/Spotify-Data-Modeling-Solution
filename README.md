@@ -30,4 +30,4 @@ Here is the final Snowflake/Star schema architecture designed for this solution:
 4.  Check the **Power Query Editor** to see the "Transformation Steps" applied to clean the dates.
 
 ---
-*If you found this solution helpful, please verify the original data source linked above!!!*
+*If you found this solution helpful, please verify the original data source linked above!!!!*
